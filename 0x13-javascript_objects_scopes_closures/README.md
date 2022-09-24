@@ -1,0 +1,1 @@
+Javascript objectt scopes closure
